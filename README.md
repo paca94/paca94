@@ -1,4 +1,5 @@
-### Hi there 👋
+# Record
+2017.07 ~ 2021.08 - **Twinny** Server Developer
 
 <!--
 **JihwanKim/JihwanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
