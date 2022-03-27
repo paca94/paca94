@@ -4,8 +4,9 @@
 <h1 align="center">Hi 👋, I'm JihwanKim</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihwankim&theme=onedark&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="jihwankim" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihwankim&theme=onedark&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="jihwankim" /></a> </p>  
 
+</br>
 
 # Experience with programming languages and frameworks
 ### Functional Language
@@ -15,6 +16,8 @@
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)  
 - Used in a side project
 
+</br>
+
 ### OOP Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 - `2021.08` ~ in Use
@@ -22,22 +25,30 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E). 
 - Used to write AWS lambdas
 
+</br>
+
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
 - `2018.12 ~ ` Used in a side project
-  - [LostArk Calender APP](https://apkpure.com/kr/%EB%A1%9C%EC%95%84-%EC%BA%98%EB%A6%B0%EB%8D%94/io.j_confiance.lostArkSchedules): Loa Calendar was developed and published on the Play Store. However, due to personal circumstances, it did not last long.
-  - [Twinny Helper](https://jihwankim.github.io/flutter/Twinny-Helper-%ED%9B%84%EA%B8%B0/): This project was developed to solve the inconvenience of groupware used by the company, and was deployed only in-house.
-  - MoiGo CS Helper: A helper application for MoiGo's CS response personally developed by 'Twinney'.
+  - **[[LostArk Calender APP](https://apkpure.com/kr/%EB%A1%9C%EC%95%84-%EC%BA%98%EB%A6%B0%EB%8D%94/io.j_confiance.lostArkSchedules)]**: Loa Calendar was developed and published on the Play Store. However, due to personal circumstances, it did not last long.
+  - **[[Twinny Helper](https://jihwankim.github.io/flutter/Twinny-Helper-%ED%9B%84%EA%B8%B0/)]**: This project was developed to solve the inconvenience of groupware used by the company, and was deployed only in-house.
+  - **[MoiGo CS Helper]**: A helper application for MoiGo's CS response personally developed by 'Twinney'.
 
-# Record
-2017.07 ~ 2021.08 - **Twinny** Server Developer
+</br>
 
+# Work Record
+### 2017.07 ~ 2021.08
+**Twinny** Server Developer  
+
+### 2021.08 ~
+**?** Server Developer
+
+</br>
 
 # Git Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihwankim&show_icons=true&locale=en&layout=compact" alt="jihwankim" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihwankim&show_icons=true&locale=en&layout=compact" alt="jihwankim" /></p>  
 
-</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihwankim&show_icons=true&locale=en" alt="jihwankim" /></p>  
 
