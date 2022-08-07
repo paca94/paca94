@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihwanKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h1 align="center">Hi 👋, I'm JihwanKim</h1>
+<h1 align="center">Hi 👋, I'm paca94</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihwankim&theme=onedark&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="jihwankim" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paca94&theme=onedark&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="paca94" /></a> </p>  
 
 </br>
 
@@ -47,17 +47,17 @@
 
 # Git Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihwankim&show_icons=true&locale=en&layout=compact" alt="jihwankim" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paca94&show_icons=true&locale=en&layout=compact" alt="paca94" /></p>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihwankim&show_icons=true&locale=en" alt="jihwankim" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paca94&show_icons=true&locale=en" alt="paca94" /></p>  
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihwankim&" alt="jihwankim" /></p>   -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paca94&" alt="paca94" /></p>   -->
 
 
 <!--
-**JihwanKim/JihwanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**paca94/paca94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
