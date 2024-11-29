@@ -40,8 +40,11 @@
 ### 2017.07 ~ 2021.08
 **Twinny** Server Developer  
 
-### 2021.08 ~
-**?** Server Developer
+### 2021.08 ~ 2023.06
+**Birdview** AdBand Server Developer
+
+### 2023.07 ~ 2024.07
+**NDUX** Server Developer
 
 </br>
 
