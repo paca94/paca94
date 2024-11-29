@@ -31,7 +31,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
 - `2018.12 ~ ` Used in a side project
   - **[[LostArk Calender APP](https://apkpure.com/kr/%EB%A1%9C%EC%95%84-%EC%BA%98%EB%A6%B0%EB%8D%94/io.j_confiance.lostArkSchedules)]**: Loa Calendar was developed and published on the Play Store. However, due to personal circumstances, it did not last long.
-  - **[[Twinny Helper](https://jihwankim.github.io/flutter/Twinny-Helper-%ED%9B%84%EA%B8%B0/)]**: This project was developed to solve the inconvenience of groupware used by the company, and was deployed only in-house.
+  - **[[Twinny Helper](https://paca94.github.io/flutter/Twinny-Helper-%ED%9B%84%EA%B8%B0/)]**: This project was developed to solve the inconvenience of groupware used by the company, and was deployed only in-house.
   - **[MoiGo CS Helper]**: A helper application for MoiGo's CS response personally developed by 'Twinney'.
 
 </br>
